@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="STM32F103C8T6" Version="1.00">
+  <Target>
+    <Tool Name="ARMCompiler" />
+  </Target>
+</Project>
